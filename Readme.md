@@ -7,11 +7,11 @@ Nesse curso é ensinado como criar um CRUD com spring boot com Java 17, feito um
 <ul>
 <h5>
 Bibliotecas/FrameWorks: </h5>
-    <li>        Spring-boot 3</li>
-    <li>        Jpa com Hibernate</li>
-    <li>        Lombok</li>
-    <li>        Fly-way</li>
-    <li>        mysql-connector</li>
-    <li>        Validation</li>
-    <li>        Spring-WEB</li>
+            <li>        Spring-boot 3</li>
+            <li>        Jpa com Hibernate</li>
+            <li>        Lombok</li>
+            <li>        Fly-way</li>
+            <li>        mysql-connector</li>
+            <li>        Validation</li>
+            <li>        Spring-WEB</li>
 </ul>
